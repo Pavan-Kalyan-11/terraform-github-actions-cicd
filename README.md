@@ -1,4 +1,3 @@
-// README.md
 # Terraform GitHub Actions CI/CD Pipeline
 
 This repo demonstrates a CI/CD pipeline using Terraform + GitHub Actions + AWS with OIDC and Secrets Manager integration.
